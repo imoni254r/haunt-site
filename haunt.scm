@@ -13,7 +13,7 @@
              (haunt site))
 
 (site #:title "Built with Haunt, a Scheme Static Site generator"
-      #:domain "bkmgit.github.io"
+      #:domain "imoni254r.github.io"
       #:build-directory "docs"
       #:default-metadata
       '((author . "A.N. Other")
